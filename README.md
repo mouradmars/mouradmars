@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mouradmars
+- 👋 Hi, I’m Mourad Mars (Ph.D)
 - 👀 I’m interested in AI - NLP - Data Science - DevOps/MLOps
 
 <!---
